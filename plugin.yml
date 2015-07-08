@@ -1,0 +1,26 @@
+name: ClearChat
+author: [kl21]
+main: kl21.ClearGlobalChat.Main
+version: 1.1.0
+
+commands:
+  cc:
+    description: Clear all chats
+  clearchat:
+    description: Clear all chats
+  cpc:
+    description: Clear your chats
+  clearprivatechat:
+    description: Clear your chats
+  cm:
+    description: Disable/Enable chats
+  chatmute:
+    description: Disable/Enable chats
+  chatreload:
+    description: Reload configuration
+  creload:
+    description: Reload configuration
+  chatrl:
+    description: Reload configuration
+  crl:
+    description: Reload configuration
